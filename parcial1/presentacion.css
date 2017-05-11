@@ -1,0 +1,17 @@
+body{
+	background: #ccc;
+}
+h1{
+	color: peru;
+}
+ul{
+	color: blue;
+}
+ul.especial li:nth-child(1) {color: grey; font-size: 200%}
+ul.especial li:nth-child(2) {color: green;font-size: 250%}
+ul.especial li:nth-child(3) {color: black;font-size: 300%}
+ul.especial li:nth-child(4) {color: yellow;font-size: 300%}
+ul.especial li:nth-child(5) {color: green;font-size: 350%}
+ul.especial li:nth-child(6) {color: black;font-size: 400%}
+ul.especial li:nth-child(7) {color: pink;font-size: 450%}
+  
